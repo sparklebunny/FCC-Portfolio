@@ -1,0 +1,470 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"background"
+			],
+			[
+				"size",
+				"font-size"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"the",
+				"the_post"
+			],
+			[
+				"query",
+				"query_posts"
+			],
+			[
+				"ar",
+				"artistRequest"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"page",
+				"page-break-inside"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"margin-",
+				"margin-bottom"
+			],
+			[
+				"backgor",
+				"background-color"
+			],
+			[
+				"gu",
+				"guessList"
+			],
+			[
+				"nu",
+				"numberOfGuesses"
+			],
+			[
+				"GU",
+				"guessButton"
+			],
+			[
+				"in",
+				"inputNumber"
+			],
+			[
+				"hel",
+				"help-info"
+			],
+			[
+				"aling",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"width",
+				"border-width"
+			],
+			[
+				"al",
+				"text-align"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"list",
+				"list-style-position"
+			],
+			[
+				"font-s",
+				"font-style"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"text",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"Sublimelinter",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/HoudiniBeans/Documents/Websites/codedini.dev/wp-content/themes/jumpstart-child/style.css",
+		"/Users/HoudiniBeans/Documents/Websites/2015-codedini-site.dev/wp-content/themes/jumpstart/header.php",
+		"/Users/HoudiniBeans/Documents/Websites/2015-codedini-site.dev/wp-content/themes/jumpstart-child/assets/js/app.js",
+		"/Users/HoudiniBeans/Documents/Websites/2015-codedini-site.dev/wp-content/themes/jumpstart-child/functions.php",
+		"/Users/HoudiniBeans/Documents/Websites/denvergardens-new.dev/wp-content/themes/jumpstart/header.php",
+		"/Users/HoudiniBeans/Documents/Websites/codedini.dev/wp-content/themes/jumpstart-child/functions.php",
+		"/Users/HoudiniBeans/Documents/Websites/codedini.dev/wp-includes/media.php",
+		"/Users/HoudiniBeans/Documents/Websites/denvergardens-new.dev/wp-content/themes/jumpstart-child/style.css",
+		"/Users/HoudiniBeans/Documents/Websites/codedini.dev/wp-content/plugins/wp-simple-firewall/templates/php/snippets/user_profile_emailauthentication.php",
+		"/Users/HoudiniBeans/Documents/Websites/codedini.dev/wp-content/plugins/wp-simple-firewall/forceoff",
+		"/Users/HoudiniBeans/Documents/Websites/itriage-local-dev.dev/wp-content/themes/JointsWP-CSS-master/parts/content-app-trending-employer.php",
+		"/Users/HoudiniBeans/Documents/Websites/itriage-local-dev.dev/wp-content/themes/JointsWP-CSS-master/parts/content-app-trending-provider.php",
+		"/Users/HoudiniBeans/Documents/Websites/itriage-local-dev.dev/wp-content/themes/JointsWP-CSS-master/parts/content-tout-employer.php",
+		"/Users/HoudiniBeans/Documents/Websites/itriage-local-dev.dev/wp-content/themes/JointsWP-CSS-master/parts/content-tout-provider.php",
+		"/Users/HoudiniBeans/Documents/Websites/itriage-local-dev.dev/wp-content/themes/JointsWP-CSS-master/parts/content-marketo-conversion.php",
+		"/Users/HoudiniBeans/Documents/Websites/itriage-local-dev.dev/wp-content/themes/JointsWP-CSS-master/parts/content-engagement-provider.php",
+		"/Users/HoudiniBeans/Desktop/wp-config.php",
+		"/Users/HoudiniBeans/Desktop/22416updates/22316prestyle.css",
+		"/Users/HoudiniBeans/Documents/Websites/itriage-local-dev.dev/wp-content/themes/JointsWP-CSS-master/parts/content-thought-leadership-main.php",
+		"/Users/HoudiniBeans/Documents/Websites/itriage-local-dev.dev/wp-content/themes/JointsWP-CSS-master/parts/content-thought-leadership-employer-landing.php",
+		"/Users/HoudiniBeans/Documents/Websites/itriage-local-dev.dev/wp-content/themes/JointsWP-CSS-master/parts/content-app-trending-consumer.php",
+		"/Users/HoudiniBeans/Documents/Websites/itriage-local-dev.dev/wp-content/themes/JointsWP-CSS-master/parts/content-adoption-employer.php",
+		"/Users/HoudiniBeans/Desktop/2-22-16 updates/22216content-app-provider-value.php",
+		"/Users/HoudiniBeans/Desktop/2-22-16 updates/22216content-app-employer-value.php",
+		"/Users/HoudiniBeans/Desktop/2-22-16 updates/22216content-adoption-provider.php",
+		"/Users/HoudiniBeans/Desktop/2-22-16 updates/22216content-adoption-employer.php",
+		"/Users/HoudiniBeans/Desktop/iTriage assets/2-12-files to transfer/2-12-content-thought-leadership-consumer-landing.php",
+		"/Users/HoudiniBeans/Desktop/2-19-16 changes/thought-leadership-blog-tout.php",
+		"/Users/HoudiniBeans/Desktop/2-18-16 changes/21816single.php",
+		"/Users/HoudiniBeans/Desktop/2-18-16 changes/21816content-thought-leadership-editorial.php",
+		"/Users/HoudiniBeans/Desktop/2-17-16 changes/21716page-navi.php",
+		"/Users/HoudiniBeans/Desktop/2-17-16 changes/original-page-navi.php",
+		"/Users/HoudiniBeans/Documents/Websites/jumpstart.dev/wp-content/themes/twentythirteen/search.php",
+		"/Users/HoudiniBeans/Documents/Websites/jumpstart.dev/wp-content/themes/jumpstart/searchform.php",
+		"/Users/HoudiniBeans/Desktop/sample.js",
+		"/Users/HoudiniBeans/Documents/JointsWP-CSS-master/assets/css/2-4-16-style.css",
+		"/Users/HoudiniBeans/Desktop/2-9-16-plane-style.css",
+		"/Users/HoudiniBeans/Desktop/page-navi-2-8.php",
+		"/Users/HoudiniBeans/Desktop/page-navi.php",
+		"/Users/HoudiniBeans/Desktop/2-9-footer.php",
+		"/Users/HoudiniBeans/Documents/Websites/iTriage-files/wp-content/themes/JointsWP-master/functions.php",
+		"/Users/HoudiniBeans/Documents/Websites/Wish for Wheels/style.css",
+		"/Users/HoudiniBeans/Documents/Websites/Wish for Wheels/index.html",
+		"/Users/HoudiniBeans/Documents/Websites/tmw-2.dev/wp-content/themes/jumpstart-child/style.css",
+		"/Users/HoudiniBeans/Documents/Websites/tmw-2.dev/wp-content/plugins/jetpack/class.jetpack-xmlrpc-server.php",
+		"/Users/HoudiniBeans/Documents/Websites/jumpstart.dev/wp-content/themes/jumpstart-child/style.css",
+		"/Users/HoudiniBeans/Documents/Websites/tmw.dev/wp-content/themes/jumpstart-child/style.css",
+		"/Users/HoudiniBeans/Documents/Websites/codedini.dev/wp-content/themes/jumpstart/functions.php",
+		"/Users/HoudiniBeans/Documents/Websites/codedini.dev/wp-content/themes/jumpstart/framework/themeblvd.php",
+		"/Users/HoudiniBeans/Documents/Codeini/index.html",
+		"/Users/HoudiniBeans/Documents/Codeini/css/styles.css",
+		"/Users/HoudiniBeans/Documents/Codeini/about.html",
+		"/Users/HoudiniBeans/Documents/Websites/jumpstart.dev/wp-content/themes/jumpstart/framework/themeblvd.php",
+		"/Users/HoudiniBeans/Documents/Websites/jumpstart.dev/wp-content/themes/jumpstart/header.php",
+		"/Users/Shared/.com.serverpress.desktopserver.json",
+		"/Users/HoudiniBeans/Documents/Websites/jumpstart.dev/wp-config.php",
+		"/Users/HoudiniBeans/Documents/Websites/jumpstart.dev/wp-content/themes/jumpstart/assets/css/theme.css",
+		"/Users/HoudiniBeans/Documents/Codeini/js/app.js",
+		"/Users/HoudiniBeans/Documents/Websites/audioenv.dev/wp-content/themes/audioenvy-child/functions.php",
+		"/Users/HoudiniBeans/Documents/Websites/audioenv.dev/wp-content/themes/audioenvy-child/style.css",
+		"/Users/HoudiniBeans/Documents/WP Themes Purchased/dummy-data.xml",
+		"/Users/HoudiniBeans/Documents/Udemy/Web Dev/JS/index.html",
+		"/Users/HoudiniBeans/Documents/Codeini/js/main.js",
+		"/Users/HoudiniBeans/Documents/Codeini/clones.html",
+		"/Users/HoudiniBeans/Documents/Thinkful.com/landing-page/index.html",
+		"/Users/HoudiniBeans/Documents/sites/my-portfolio/hello.html",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/DataDumps/accelerate1202015.sql",
+		"/Users/HoudiniBeans/Documents/Thinkful.com/AJAX - Unit 4/API Hack/index.html",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/accelerate/wp-content/index.php",
+		"/Users/HoudiniBeans/Documents/Employment/Mock-Ups/Justin W Hall/index.html",
+		"/Users/HoudiniBeans/Documents/Thinkful.com/AJAX - Unit 4/API Hack/assets/css/styles.css",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/accelerate/wp-content/themes/accelerate-theme-child/single-case_studies.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/accelerate/wp-content/themes/accelerate-theme-child/archive-case_studies.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/accelerate/wp-content/themes/accelerate-theme-child/page.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/accelerate/wp-content/plugins/ninja-forms/ninja-forms.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/accelerate/wp-content/plugins/ninja-forms/readme.txt",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/accelerate/wp-content/plugins/ninja-forms/classes/form.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/accelerate/wp-content/plugins/ninja-forms/index.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/accelerate/wp-content/themes/accelerate-theme/page.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/accelerate/wp-content/themes/accelerate-theme-child/case_study_saved.txt",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/accelerate/wp-content/themes/accelerate-theme-child/front-page.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/accelerate/wp-config.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/accelerate/wp-content/themes/accelerate-theme-child/index.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/accelerate/wp-content/themes/accelerate-theme/footer.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/accelerate/wp-content/themes/accelerate-theme/style.css",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/accelerate/wp-content/themes/accelerate-theme-child/functions.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/accelerate/wp-content/themes/accelerate-theme/header.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/accelerate/wp-content/themes/accelerate-theme/index.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/accelerate/wp-content/themes/index.php",
+		"/Users/HoudiniBeans/Documents/Thinkful.com/AJAX - Unit 4/API Hack/tmp url",
+		"/Users/HoudiniBeans/Documents/Thinkful.com/AJAX - Unit 4/API Hack/js/artist.json",
+		"/Users/HoudiniBeans/Documents/Thinkful.com/Shopping-List/index.html",
+		"/Users/HoudiniBeans/Documents/Thinkful.com/Shopping-List/css/main.css",
+		"/Users/HoudiniBeans/Documents/Thinkful.com/hot-or-cold-app/index.html",
+		"/Users/HoudiniBeans/Documents/sites/i-did-it/jeribeth.html",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/wordpress/.gitignore",
+		"/Users/HoudiniBeans/.bash_profile",
+		"/Users/HoudiniBeans/Documents/WordPress Backups/11-23-14.sql",
+		"/Users/HoudiniBeans/Documents/sparklebunny.github.io/index.html",
+		"/Users/HoudiniBeans/Documents/sites/i-did-it/new_styles.css",
+		"/Users/HoudiniBeans/Desktop/.bash_profile",
+		"/Users/HoudiniBeans/Documents/Thinkful.com/Hello-World-Ajax/index.html",
+		"/Users/HoudiniBeans/Documents/Thinkful.com/AJAX - Unit 4/API Hack/styles.css",
+		"/Users/HoudiniBeans/Documents/Thinkful.com/AJAX - Unit 4/StackOverflow Reputation Builder Stage 1/index.html",
+		"/Users/HoudiniBeans/Documents/Thinkful.com/AJAX - Unit 4/StackOverflow Reputation Builder Stage 1/app.js",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/wordpress/wp-content/themes/skillcrushstarter-2/footer.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/wordpress/wp-content/themes/skillcrushstarter-2/header.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/wordpress/wp-content/themes/skillcrushstarter-2/index.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/wordpress/wp-content/themes/skillcrushstarter-2/content-blog.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/wordpress/wp-content/themes/skillcrushstarter-2/content.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/wordpress/wp-content/themes/skillcrushstarter-2/category.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/wordpress/wp-content/themes/skillcrushstarter-2/functions.php",
+		"/Users/HoudiniBeans/Documents/Thinkful.com/AJAX - Unit 4/StackOverflow Reputation Builder Stage 1/main.css",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/wordpress/wp-content/themes/skillcrushstarter-2/single.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/wordpress/wp-content/themes/skillcrushstarter-2/comments.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/wordpress/wp-content/themes/skillcrushstarter-2/page.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/wordpress/wp-content/themes/skillcrushstarter-2/style.css",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/wordpress/wp-content/themes/skillcrushstarter-2/front-page.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/wordpress/wp-includes/functions.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/wordpress/wp-config.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/WordPress-Warm-Up/index.html",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/wordpress/wp-content/themes/skillcrushstarter/content.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/wordpress/wp-content/themes/skillcrushstarter/index.php",
+		"/Users/HoudiniBeans/Documents/Skillcrush/Sites/wordpress/wp-content/themes/skillcrushstarter/style.css",
+		"/Users/HoudiniBeans/Documents/Skillcrush/WordPress-Warm-Up/styles.css",
+		"/Users/HoudiniBeans/Documents/Thinkful.com/Hello World ajax/app.js",
+		"/Users/HoudiniBeans/Documents/Thinkful.com/Hello World ajax/moment.min.js",
+		"/Users/HoudiniBeans/Documents/Thinkful.com/Hello World ajax/index.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/Users/HoudiniBeans/Documents/Websites/2015-codedini-site.dev",
+			"/Users/HoudiniBeans/Documents/Websites/2015-codedini-site.dev/wp-content/themes",
+			"/Users/HoudiniBeans/Documents/Websites/2015-codedini-site.dev/wp-content/themes/jumpstart-child",
+			"/Users/HoudiniBeans/Documents/Websites/2015-codedini-site.dev/wp-content/themes/jumpstart",
+			"/Users/HoudiniBeans/Documents/Websites/2015-codedini-site.dev/wp-content/themes/jumpstart-child",
+			"/Users/HoudiniBeans/Documents/Websites/2015-codedini-site.dev/wp-content/themes/jumpstart",
+			"/Users/HoudiniBeans/Documents/Websites/2015-codedini-site.dev/wp-content/themes/jumpstart-child",
+			"/Users/HoudiniBeans/Documents/Websites/codedini.dev",
+			"/Users/HoudiniBeans/Documents/Websites/itriage-local-dev.dev/wp-content/themes/JointsWP-CSS-master/assets/css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"wp_head",
+			"agic",
+			"Magic",
+			"Turning Code into Magic",
+			"turning code into magic",
+			"tagline",
+			".tagline",
+			".header-logo",
+			"vertical-align",
+			"functions.php",
+			"wp-post-image",
+			"wp-post-img",
+			"post_showcase",
+			"showcase",
+			"post_showcase",
+			"post-showcase",
+			"alttext-container",
+			"hamburger",
+			"catagory",
+			"catatory",
+			"devstyle",
+			"pink",
+			"900px",
+			"request",
+			".homepage",
+			"hero-image.png",
+			"	text-align: left;\n",
+			"rows",
+			"color",
+			"display",
+			"2px",
+			";\n",
+			" \n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"category"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 442.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

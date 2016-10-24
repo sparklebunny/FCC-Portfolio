@@ -1,0 +1,257 @@
+/* Site Navigation */
+
+nav {
+	background-color: rgba(255, 255, 255, 0.5);
+}
+
+.nav-logo {
+	max-width: 25rem;
+	max-height: auto;
+	padding-top: 1rem;
+}
+
+ul.nav-pills {
+	list-style-type: none;
+	float: right;
+}
+
+.nav-links li:first-of-type {
+	margin-left: 0;
+	padding-left: 0;
+}
+
+.nav-item {
+	background-color: #78bdc2;
+	margin: 1rem 2rem;
+}
+
+.nav-image {
+	max-height: 4rem;
+/*	max-width: 4rem;
+*/	min-height: 2.5rem;
+	min-width: 2.5rem;
+}
+
+.nav-item:hover {
+	border-radius: 6%;
+	background-color: #acce32;
+}
+ 
+/* Site Background */
+
+#parallax { 
+    /* The image used */
+    background-image: url("http://www.codedini.com/codepen-projects/portfolio/assets/parallax-image-colorado.png");
+
+    /* Set a specific height */
+    height: 100%; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#body-background {
+	background-color: rgba(255, 255, 255, 0.8);
+	padding-top: 15rem;
+}
+
+/* Beginning of Content Sections */
+
+h1, h2, h3, h4, h5, h6 {
+	font-size: 3.5rem;
+}
+
+p, li {
+	font-size: 1.75rem;
+}
+
+.site-content {
+	padding-bottom: 5rem;
+}
+
+/* Site Content */
+.about-section,
+.portfolio-section,
+.contact-section,
+.connect-section {
+	margin: auto 3rem;
+}
+
+/* Portfolio & Social items */
+.portfolio-items,
+.social-collection {
+	text-align: center;
+}
+
+.portfolio-item:hover,
+.social-links:hover {
+	border-radius: 6%;
+	background-color: #acce32;
+} 
+
+/* About Section */
+
+.about-section ul li {
+	list-style-type: none;
+}
+
+.about-list li i {
+	color: #78bdc2;
+}
+
+/* Portfolio Section */
+
+.portfolio-item {
+	display: inline-block;
+	background-color: #78bdc2;
+	margin: 3rem;
+	padding: 3rem;
+}
+
+.portfolio-section img {
+	max-height: 450px;
+	min-height: 50px;
+	display: block;
+	position: relative; 
+	 -webkit-filter: grayscale(1);
+  	filter: grayscale(1);
+  	margin: 0 auto;
+}
+
+.portfolio-section img:hover {
+	-webkit-filter: grayscale(0);
+  	filter: grayscale(0);
+}
+
+.portfolio-hover-text {
+	display: none;
+	text-align: center;
+}
+
+/*.portfolio-text {
+	position: relative;
+	bottom: -1rem;
+	text-align: center;
+	visibility: hidden;
+}
+
+.portfolio-item:hover .portfolio-text {
+	visibility: visible;
+	font-weight: bold;
+	text-decoration: none;
+	font-variant: small-caps;
+	color: #000;
+}*/
+
+/* Divider for each section */
+
+hr.horizontal-rule {
+    border: 0;
+    height: 2px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
+
+/* Contact Section with Form */
+
+.well {
+	float: none !important;
+}
+
+.form-horizontal .form-group {
+	margin-right: 1.5rem !important;
+	margin-left: 1.5rem !important;
+}
+
+#success_message { 
+	display: none;
+}
+
+/* Social Connect Section with Social Links */
+
+.social-links {
+	display: inline-block;
+	background-color: #78bdc2;
+	margin: 2rem;
+	padding: 1.5rem;
+}
+
+.social-links img {
+	max-height: 3.5rem;
+	max-width: 3.5rem;
+}
+
+/* Arrow to Top */
+
+.back-to-top {
+	background: none;
+	margin: 0;
+	position: fixed;
+	bottom: 0;
+	right: 0;
+	width: 5rem;
+	height: 5rem;
+	z-index: 100;
+	display: none;
+	text-decoration: none;
+	color: #ffffff;
+	background-color: #f0ad4e;
+}
+
+.back-to-top i {
+	font-size: 4rem;
+	margin: 1rem;
+}
+
+.back-to-top:hover {
+	background: #78bdc2;
+}
+ 
+/* Footer Section */
+
+.portfolio-footer {
+	margin-top: 4rem;
+	padding-bottom: 2rem;
+	text-align: center;
+	font-weight: bold;
+	color: #000;
+}
+
+/* Media Queries */
+
+@media (max-width: 660px) {
+	.nav-logo {
+		padding-right: 2rem;
+	}
+	.nav-links {
+		float: left !important;
+		margin-top: 1.25rem;
+	}
+	.nav-links li:first-of-type {
+		margin-left: 1rem;
+	}
+	.nav-item {
+		margin: 1rem;
+	}
+	.about-section {
+		margin: 5.5rem 2rem;
+	}
+}
+
+@media (max-width: 360px) {
+	.nav-item {
+		margin: 1rem;
+	}
+	.nav-image {
+		max-height: 2.5rem;
+	}
+	.about-section {
+		margin: 3rem 1rem;
+	}
+}
+
+
+
+
